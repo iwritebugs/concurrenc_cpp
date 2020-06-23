@@ -1,4 +1,0 @@
-/home/viktor/Programs/clion-2019.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-8 -G "CodeBlocks - Unix Makefiles" /home/viktor/Study/concurrenc_cpp
--- Configuring done
--- Generating done
--- Build files have been written to: /home/viktor/Study/concurrenc_cpp/cmake-build-debug
